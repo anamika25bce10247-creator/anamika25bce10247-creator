@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anamika Singh 
+
+ B.Tech CSE(CORE) Student  
+ VIT BHOPAL 
+ Expected Graduation: 2029 
+
+ I am interested in Artificial Intelligence and Machine Learning.  
+ I want to learn and build real-world projects in AI, web development, and data science.  
+
+ Skills: Python  
+ Currently Learning: AI-ML fundamentals  
+
+ Connect with me:
+- LinkedIn: www.linkedin.com/in/anamika-singh-217573381 
+
 
 <!--
 **anamika25bce10247-creator/anamika25bce10247-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
