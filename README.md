@@ -1,14 +1,17 @@
 # Hi, I'm Anamika Singh 
 
- B.Tech CSE(CORE) Student  
- VIT BHOPAL 
- Expected Graduation: 2029 
+* B.Tech CSE(CORE) Student  
+* VIT BHOPAL
+* First Year Student 
+* Expected Graduation: 2029
+  
+# About me 
 
- I am interested in Artificial Intelligence and Machine Learning.  
- I want to learn and build real-world projects in AI, web development, and data science.  
+ I am interested in Artificial Intelligence .  
+ I want to learn and build real-world projects in AI and data science.  
 
  Skills: Python  
- Currently Learning: AI-ML fundamentals  
+ Currently Learning: CORE fundamentals  
 
  Connect with me:
 - LinkedIn: www.linkedin.com/in/anamika-singh-217573381 
